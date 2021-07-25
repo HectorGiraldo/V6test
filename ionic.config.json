@@ -1,0 +1,7 @@
+{
+  "name": "V6test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
